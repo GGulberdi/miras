@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  height: auto;
+  border-radius:45%;
+}
+.navbar{
+  background-color: aquamarine;
+}
